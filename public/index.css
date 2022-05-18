@@ -1,0 +1,14 @@
+#head1 {
+    color: lightcoral;
+}
+
+button {
+    background-color: beige;
+    color: deeppink;
+    width: 70px;
+    height: 30px;
+}
+
+body {
+    background-color:cadetblue;
+}
